@@ -1,24 +1,47 @@
-# Eaí, Meu nome é Cassiel de Lima 😷
-### Sou uma pessoa calma e reservada, fascinada por tecnologia. Atualmente estou cursando ensino técnico em Informática, e estudando para ser um programador melhor.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&animation=twinkling&descAlignY=50&descAlign=50&color=0:000,100:a020f0)
 
-### Aqui estão algumas estatísticas para acompanhar meu processo 🚀
-![Cassiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cassieldl&show_icons=true&theme=midnight-purple&hide=issues&border_radius=7&hide_border=true&locale=pt-br&custom_title=Cassieldl&rank_icon=github)
+<div align="center">
 
-### Algumas tecnologias que tenho conhecimento 💻
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=7F00FF&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Cassiel+de+Lima+%F0%9F%98%8A;I'm+21+years+old+%F0%9F%A7%93%F0%9F%8F%BB;And+I'm+from+Brazil+%F0%9F%92%9A)](https://git.io/typing-svg)
+
 </div>
 
-<br>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassieldl&layout=donut&bg_color=000&text_color=fff&title_color=fff&hide_border=true&border_radius=7&locale=pt-br&show_icons=true)](https://github.com/cassieldl/github-readme-stats)
+### I'm a calm and reserved person, fascinated by technology. I'm always studying to become a better programmer.
+### Here are some statistics to track my progress 🚀
 
-## Informações de contato ✉️
+</div>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:seuendereço@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassieldl)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cassieldl&theme=midnight-purple&border_radius=7&hide_border=true&border_color=000&rank_icon=github" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassieldl&layout=donut&langs_count=7&card_width=320&theme=midnight-purple&border_radius=7&hide_border=true&border_color=000&title_color=fff" />
+</a>
+
+
+
+<div align="center">
+
+### Some technologies I am familiar with 💻
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,nodejs,jquery,wordpress)
+
+</div>
+
+<div align="center">
+
+![Cassiel](https://ssr-contributions-svg.vercel.app/_/cassieldl?chart=3dbar&gap=0.7&scale=2.5&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=7&animation_frequency=0.5&animation_wave_center=1_0&format=svg&weeks=30&theme=sunset&dark=true)
+
+</div>
+
+<div align="center">
+
+### Connect with me 😉
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mailto:seuendereço@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassieldl/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cassieldl)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&descAlignY=50&descAlign=50&color=0:000,100:a020f0)
