@@ -20,7 +20,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassieldl&layout=donut&langs_count=7&card_width=320&theme=midnight-purple&border_radius=7&hide_border=true&border_color=000&title_color=fff" />
 </a>
 
-
+<br> <br>
 
 <div align="center">
 
@@ -30,10 +30,18 @@
 </div>
 
 <div align="center">
+  
+### Contributions 📈
 
+</div>
+
+<div align="center">
+  
 ![Cassiel](https://ssr-contributions-svg.vercel.app/_/cassieldl?chart=3dbar&gap=0.7&scale=2.5&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=7&animation_frequency=0.5&animation_wave_center=1_0&format=svg&weeks=30&theme=sunset&dark=true)
 
 </div>
+
+<br>
 
 <div align="center">
 
