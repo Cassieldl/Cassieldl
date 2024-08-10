@@ -37,7 +37,7 @@
 
 <div align="center">
   
-![Cassiel](https://ssr-contributions-svg.vercel.app/_/cassieldl?chart=3dbar&gap=0.7&scale=2.5&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=7&animation_frequency=0.5&animation_wave_center=1_0&format=svg&weeks=30&theme=sunset&dark=true)
+![Graphic](https://ssr-contributions-svg.vercel.app/_/cassieldl?chart=3dbar&gap=0.7&scale=2.5&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=7&animation_frequency=0.5&animation_wave_center=1_0&format=svg&weeks=30&theme=sunset&dark=true)
 
 </div>
 
