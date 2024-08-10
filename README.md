@@ -46,15 +46,9 @@
 <div align="center">
 
   ### Connect with me 😉
-  <a href="https://mailto:seuendereço@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/cassieldl/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/cassieldl" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
-  </a>
+  [![Email](https://skillicons.dev/icons?i=gmail)](https://mailto:seuendereço@gmail.com)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassieldl/)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cassieldl)
   
 </div>
 
