@@ -25,7 +25,7 @@
 <div align="center">
 
   ### Some technologies I am familiar with 💻
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,nodejs,jquery,wordpress)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,nodejs)
 
 </div>
 
