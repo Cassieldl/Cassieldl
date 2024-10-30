@@ -8,8 +8,7 @@
 
 <div align="center">
 
-  #### Sou uma pessoa calma e reservada, fascinado por tecnologia. 
-  #### Sempre em busca de aprender mais para me tornar um profissional melhor.
+  ### Sou uma pessoa calma e reservada, fascinada por tecnologia. 
   ### Aqui estão algumas estastísticas para acompanhar meu progresso 🚀
 
 </div>
