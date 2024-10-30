@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&pause=1000&color=7F00FF&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Cassiel+de+Lima+%F0%9F%98%80;I'm+21+years+old+%F0%9F%A7%93%F0%9F%8F%BB;And+I'm+from+Brazil+%F0%9F%92%9A;Welcome+to+my+profile+%F0%9F%98%8A)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&pause=1000&color=7F00FF&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Cassiel+de+Lima+%F0%9F%98%80;Tenho+21+anos+%F0%9F%A7%93%F0%9F%8F%BB;Sou+estudante+de+tecnologia+%F0%9F%92%BB;Bem-vindo+ao+meu+perfil+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 </div>
 
