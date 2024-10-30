@@ -8,8 +8,8 @@
 
 <div align="center">
 
-  ### I'm a calm and reserved person, fascinated by technology. I'm always studying to become a better programmer.
-  ### Here are some statistics to track my progress 🚀
+  ### Sou uma pessoa calma e reservada, fascinado por tecnologia. Sempre buscando aprender mais para me tornar um profissional melhor.
+  ### Aqui estão algumas estastísticas para acompanhar meu progresso 🚀
 
 </div>
 
@@ -24,14 +24,14 @@
 
 <div align="center">
 
-  ### Some technologies I am familiar with 💻
+  ### Algumas tecnologias que tenho familiaridade 💻
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,react,mysql,nodejs)
 
 </div>
 
 <div align="center">
   
-  ### Contributions 📈
+  ### Contribuições 📈
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  ### Connect with me 😉
+  ### Conecte-se comigo 😉
   [![Email](https://skillicons.dev/icons?i=gmail)](https://mailto:seuendereço@gmail.com)
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassieldl/)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cassieldl)
