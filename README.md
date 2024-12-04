@@ -25,7 +25,7 @@
 <div align="center">
 
   ### Algumas tecnologias que tenho familiaridade 💻
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,react,mysql,nodejs)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,mysql,nodejs)
 
 </div>
 
