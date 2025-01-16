@@ -46,7 +46,6 @@
 <div align="center">
 
   ### Conecte-se comigo 😉
-  [![Email](https://skillicons.dev/icons?i=gmail)](https://mailto:cassielcdl@gmail.com)
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassieldl/)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cassieldl)
   
