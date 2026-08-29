@@ -50,6 +50,8 @@ Plataforma voltada à descoberta e divulgação de eventos, criada como parte da
 
 **Tecnologias:** React, TypeScript, Vite, Tailwind CSS e outras tecnologias web.
 
+🔗 [Ver repositório](https://github.com/Cassieldl/Urbanity)
+
 ---
 
 ### 🧾 NFSe
@@ -60,11 +62,11 @@ Projeto relacionado à análise e validação de documentos **XML de NFSe**, bus
 
 ---
 
-### 🥛 Agro Leite Fluir
+### 🥛 Natta
 
 Aplicação voltada à gestão de propriedades leiteiras, buscando simplificar a organização das informações e aproximar a tecnologia da rotina dos produtores.
 
-🔗 [Ver repositório](https://github.com/Cassieldl/agro-leite-fluir)
+🔗 [Ver repositório](https://github.com/Cassieldl/Natta)
 
 ---
 
